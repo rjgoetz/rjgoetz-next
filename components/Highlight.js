@@ -14,5 +14,5 @@ export default function Highlight({ headline, width }) {
 
 Highlight.propTypes = {
   headline: PropTypes.string.isRequired,
-  width: PropTypes.number.isRequired,
+  width: PropTypes.string.isRequired,
 };

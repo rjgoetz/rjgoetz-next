@@ -15,7 +15,10 @@ module.exports = {
       },
       purple: {
         DEFAULT: colors.indigo['900'],
-        medium: colors.indigo['600'],
+        medium: colors.indigo['700'],
+      },
+      white: {
+        DEFAULT: 'white',
       },
     },
     container: {

@@ -42,7 +42,7 @@ export default function Home() {
                 </p>
               </header>
 
-              <Highlight headline="technologies" width="36"></Highlight>
+              <Highlight headline="technologies"></Highlight>
               <ul className="mb-12">
                 <li>html / css</li>
                 <li>javascript</li>
@@ -53,7 +53,7 @@ export default function Home() {
                 <li>mongo db</li>
               </ul>
 
-              <Highlight headline="projects" width="24"></Highlight>
+              <Highlight headline="projects"></Highlight>
               <ul className="mb-12">
                 <li>
                   <a href="https://cetaceasound.com" target="_blank">

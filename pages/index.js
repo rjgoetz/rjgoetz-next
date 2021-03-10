@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <main>
-        <div className="container">
+        <div className="flex justify-center sm:block sm:container">
           <div className="sm:grid sm:grid-cols-6 sm:gap-6">
             <div className="sm:col-span-2 lg:col-span-1">
               <div className="my-12">

@@ -61,8 +61,11 @@ export default function Home() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://ahlbergforcouncil.org" target="_blank">
-                    ahlbergforcouncil.com
+                  <a
+                    href="https://ahlbergforcouncil.netlify.app"
+                    target="_blank"
+                  >
+                    ahlbergforcouncil.netlify.app
                   </a>
                 </li>
                 <li>
